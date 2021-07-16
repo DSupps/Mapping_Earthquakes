@@ -11,7 +11,10 @@
 - Deliverable 3: Add an Additional Map
 
 ### Resources:
-- Data Sources
+- Data Sources:
+    - [Earthquake GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
+    - [4.5+ Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
+    - [Tectonic Plate geoJSON](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
 
 - Software:
     - Visual Studio Code 1.57.1
@@ -20,5 +23,20 @@
     - Python 3.8.5
     
 ## Challenge Results:
+
+
+![streets](https://user-images.githubusercontent.com/36451701/126018112-234eb23f-5146-458a-9942-738749264efc.png)
+
+
+![satellie](https://user-images.githubusercontent.com/36451701/126018120-943bf1ad-6e11-40d3-a21e-dd59c752775a.png)
+
+
+![light](https://user-images.githubusercontent.com/36451701/126018121-e89ac807-c3fe-4ca7-8fda-3da48cce7f83.png)
+
+
+![nav](https://user-images.githubusercontent.com/36451701/126018125-3c2b6cad-9b5f-447b-b9e7-1139caa0dd30.png)
+
+
+
 
 ## Challenge Summary:
