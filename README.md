@@ -23,7 +23,7 @@
     - Python 3.8.5
     
 ## Challenge Results:
-
+The insightful and interactive can be found here - https://dsupps.github.io/Mapping_Earthquakes/
 
 ![streets](https://user-images.githubusercontent.com/36451701/126018112-234eb23f-5146-458a-9942-738749264efc.png)
 
