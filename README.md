@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Challenge Overview:
-*The reporters and data visualzation team at the Disaster Reporting Network need an insightful and interactive visualization to illustrate the relationship between seismic activity and tectonic plates locations around the world.*
+*The reporters and data visualization team at the Disaster Reporting Network need an insightful and interactive visualization to illustrate the relationship between seismic activity and tectonic plates locations around the world.*
 
 *To build this visualization, I will traverse and retrieve earthquake and seismic activity data using JavaScript, and the D3 and Leaflet libraries.  The data will be plotted on a mapbox map.*
 
