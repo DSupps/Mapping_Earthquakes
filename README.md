@@ -3,7 +3,7 @@
 ## Challenge Overview:
 *The reporters and data visualzation team at the Disaster Reporting Network need an insightful and interactive visualization to illustrate the relationship between seismic activity and tectonic plates locations around the world.*
 
-*To build this for them.*
+*To build this visualization, I will traverse and retrieve earthquake and seismic activity data using JavaScript, and the D3 and Leaflet libraries and plot the data on a mapbox map.*
 
 ### What I am creating:
 - Deliverable 1: Add Tectonic Plate Data
@@ -25,6 +25,9 @@
     
 ## Challenge Results:
 The insightful and interactive can be found here - https://dsupps.github.io/Mapping_Earthquakes/
+This multi-layer and interactive map illustrates the relationship between the location and frequency of seismic activity and tectonic plates with addition of fault lines. 
+
+## Challenge Summary:
 
 ### Street View
 
@@ -42,4 +45,4 @@ Navigation Night View
 
 
 
-## Challenge Summary:
+
