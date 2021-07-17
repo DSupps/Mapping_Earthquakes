@@ -25,6 +25,7 @@
     
 ## Challenge Results:
 The insightful and interactive can be found here - https://dsupps.github.io/Mapping_Earthquakes/
+
 This multi-layer and interactive map illustrates the relationship between the location and frequency of seismic activity and tectonic plates with addition of fault lines. 
 
 ## Challenge Summary:
