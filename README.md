@@ -30,7 +30,7 @@ This multi-layer and interactive map illustrates the relationship between the lo
 
 ## Challenge Summary:
 
-An challenge called for three layers, but a fourth was added because I just think it looks cool!
+The challenge called for three layers, but a fourth was added because I just think it looks cool!
 
 ### Street View
 
