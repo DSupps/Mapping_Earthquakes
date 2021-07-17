@@ -25,9 +25,11 @@
 ## Challenge Results:
 The insightful and interactive can be found here - https://dsupps.github.io/Mapping_Earthquakes/
 
+### Street View
+
 ![streets](https://user-images.githubusercontent.com/36451701/126018112-234eb23f-5146-458a-9942-738749264efc.png)
 
-
+### Satellite View
 ![satellie](https://user-images.githubusercontent.com/36451701/126018120-943bf1ad-6e11-40d3-a21e-dd59c752775a.png)
 
 
