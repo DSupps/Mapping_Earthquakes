@@ -32,10 +32,10 @@ The insightful and interactive can be found here - https://dsupps.github.io/Mapp
 ### Satellite View
 ![satellie](https://user-images.githubusercontent.com/36451701/126018120-943bf1ad-6e11-40d3-a21e-dd59c752775a.png)
 
-
+### Light View
 ![light](https://user-images.githubusercontent.com/36451701/126018121-e89ac807-c3fe-4ca7-8fda-3da48cce7f83.png)
 
-
+Navigation Night View
 ![nav](https://user-images.githubusercontent.com/36451701/126018125-3c2b6cad-9b5f-447b-b9e7-1139caa0dd30.png)
 
 
