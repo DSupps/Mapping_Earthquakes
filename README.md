@@ -1,5 +1,7 @@
 # Mapping_Earthquakes
 
+![seismic-activity-web-824x549](https://user-images.githubusercontent.com/36451701/137053520-f32aa7ee-4b3d-4e8b-9c96-1e944221ea45.jpg)
+
 ## Challenge Overview:
 *The reporters and data visualization team at the Disaster Reporting Network need an insightful and interactive visualization to illustrate the relationship between seismic activity and tectonic plates locations around the world.*
 
