@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping_Earthquakes with GeoJSON - Project Overview
 ![2021-10-12_21-53-52](https://user-images.githubusercontent.com/36451701/137054202-e7672b4b-7639-4106-a329-e8100b3c5d9f.png)
 
 ## Challenge Overview:
