@@ -23,6 +23,7 @@
     - MacOS Catalina Version 10.16.7
     - Python 3.8.5
     - Leaflet 1.7.1
+    - HTML/CSS
     
 ## Challenge Results:
 The insightful and interactive can be found here - https://dsupps.github.io/Mapping_Earthquakes/
